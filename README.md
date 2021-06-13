@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-    <a href="https://www.notion.so/" style="color: black; text-decoration: none;"> 
+    <a href="https://www.notion.so/Resume-447571cd47ba4d799cff15a6cdea046a" style="color: black; text-decoration: none;"> 
    View Resume
     </a>
 </h3>
