@@ -84,3 +84,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=22yuu&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs277)](https://solved.ac/ljs277) -->
