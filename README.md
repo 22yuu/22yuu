@@ -1,20 +1,14 @@
+<!-- 
+## Hi there 👋
+- I'm currently learning `Spring`, `React`, `Deep Learning`
+- temp
+- temp
 
-
-<!--
-### Hi there 👋
-
-**22yuu/22yuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Experience
+- temp1
+- temp2
+- temp3
+<hr> 
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=Jinyuu%20LEE&fontSize=85&animation=twinkling" />
@@ -80,11 +74,22 @@ Here are some ideas to get you started:
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/22yuu/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=22yuu&show_icons=true&theme=flag-india&count_private=true"/></a>
-</p>
+</p> -->
+### My Github Stats
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=22yuu&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22yuu&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
 
 ### [Sovled.ac Tier]
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs277)](https://solved.ac/ljs277)
-
+<br/>
+<p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs277&cache=c">
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs277)](https://solved.ac/ljs277) -->
+</p>
