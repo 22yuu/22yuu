@@ -64,7 +64,7 @@
   <a href="https://skyiswonder.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
 -->
   <!-- <a href="https://skyiswonder.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp -->
-<a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://22yuu.tistory.com//"/></a>&nbsp
+    <a href="https://22yuu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
   <a href="mailto:22yuu@naver.com"><img src="https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white&link=22yuu@naver.com"/></a>
 </p>
